@@ -3,7 +3,7 @@
 Syed Abdul Mateen Shah  
 Java  
 
-------------------------------------------------------------
+
 
 Program Description
 
@@ -19,7 +19,7 @@ The program allows the user to:
 
 Try-catch blocks are used for the modify and add functions as required.
 
-------------------------------------------------------------
+
 
 How to Run
 
@@ -31,7 +31,7 @@ java Main
 
 Make sure input.txt is in the same folder.
 
-------------------------------------------------------------
+
 
 Screenshots
 
