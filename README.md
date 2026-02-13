@@ -34,7 +34,7 @@ java Main
 Screenshots:
 
 
-Search – Found
+
 
 Search – Found  
 ![Search Found](search_found.png)
