@@ -11,7 +11,7 @@ This program reads integers from input.txt into a standard Java array
 (ArrayList is not used).
 
 The program allows the user to:
-- Search for a number (returns index)
+- Search for a number and give its index
 - Modify a value at a given index
 - Add a number to the end of the array
 - Remove a number at a given index
@@ -61,7 +61,5 @@ Display Function
 
 Challenges Faced
 
-- Making sure the file was in the correct folder so it could be read properly.
-- Handling invalid indexes without crashing the program.
-- Remembering to shift elements left when removing from a normal array.
-- Making sure the array had extra capacity so the add function could be tested.
+There werent many challenges I faced in this assignment, only challenge was making sure the remove function correctly shifts elements without
+  losing data or causing index errors. Another challenge was bugs but co-pilot helped me in those.
