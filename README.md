@@ -29,11 +29,9 @@ javac Main.java
 Run:
 java Main
 
-Make sure input.txt is in the same folder.
 
 
-
-Screenshots
+Screenshots:
 
 
 Search – Found
